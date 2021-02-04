@@ -1,5 +1,7 @@
 Gigabyte-H370M-DS3H-Hackintosh
 ==============================
+![Screenshot](/art/screenshot.png)
+
 OpenCore configurations for Gigabyte H370M DS3H.
 [Dortania's Install Guide](https://dortania.github.io/OpenCore-Install-Guide/) is your friend.
 
