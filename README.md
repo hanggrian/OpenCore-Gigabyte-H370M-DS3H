@@ -1,5 +1,5 @@
-Gigabyte-H370M-DS3H-Hackintosh
-==============================
+OpenCore Gigabyte H370M DS3H
+============================
 ![Screenshot](/art/screenshot.png)
 
 OpenCore configurations for Gigabyte H370M DS3H.
@@ -17,4 +17,4 @@ Configuration
 -------------
 * `RELEASE` version of [OpenCore Releases](https://github.com/acidanthera/OpenCorePkg/releases).
 * Post-Install [OpenCore's GUI](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html)
-* `Microsoft` directory is usually under `EFI`, along with `OC` and `BOOT`.
+* `Microsoft` directory is optional, it is a Windows multiboot on different drive.
